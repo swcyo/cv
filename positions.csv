@@ -1,35 +1,38 @@
 loc,title,institution,start,end,description_1,description_2,description_3,section,order
-华中科技大学同济医学院,博士在读，外科学（泌尿外科/男科）,中国，湖北，武汉,2018,9999,华中科技大学同济医学院附属同济医院,泌尿外科,导师：刘继红,education,1
-石河子大学医学院,"硕士, 外科学（泌尿外科）",中国，新疆，石河子,2010,2013,石河子大学医学第一附属医院泌尿外科,论文: 单孔后腹腔镜和标准后腹腔镜输尿管切开取石术的对比研究,导师：丁国富/王勤章,education,2
-长沙医学院,学士，临床医学,中国，湖南，长沙,2005,2010,见习：湘潭市立医院,实习：浏阳市人民医院,校长：何彬生,education,3
-以色列西勒雅法医学中心,泌尿外科及人类辅助生殖技术进修,以色列，哈代拉,2015,2015,泌尿外科/IVF,NA,NA,education,NA
-郑州大学第一附属医院,IVF-ICSI进修,中国，河南，郑州,2016,2017,进修人类辅助生殖技术,NA,NA,education,NA
-北京大学人民医院,男科进修,中国，北京,2018,2018,进修人类辅助生殖技术,,,education,
+华中科技大学同济医学院,博士在读，外科学（泌尿外科/男科）,中国，湖北，武汉,2018,9999,华中科技大学同济医学院附属同济医院泌尿外科,NA,导师：刘继红,education,1
+石河子大学医学院,"硕士, 外科学（泌尿外科）",中国，新疆，石河子,2010,2013,石河子大学医学第一附属医院泌尿外科,论文: [单孔后腹腔镜和标准后腹腔镜输尿管切开取石术的对比研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201401&filename=1013366130.nh&uid=WEEvREcwSlJHSldRa1FhcEFLUmVhaTRHcXdpYWlVT0V2cGJzMGxZT2o2VT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTcxMzVUcldNMUZyQ1VSN3FmWmVSckZ5emxWTDNJVkYyNkhiQytHTkRQcjVFYlBJUjhlWDFMdXhZUzdEaDFUM3E=),导师：丁国富/王勤章,education,2
+长沙医学院,学士，临床医学,中国，湖南，长沙,2005,2010,见习：湘潭市立医院,实习：浏阳市人民医院,校长：胡东煦,education,3
+以色列西勒雅法医学中心 Urology& IVF,泌尿外科及人类辅助生殖技术进修,"Hadera, Israel",2015,2016,Urology/IVF Fellows,2015.12-2016.3,NA,education,NA
+郑州大学第一附属医院 生殖中心,IVF-ICSI进修,中国，河南，郑州,2016,2017,进修人类辅助生殖技术,2016.12-2017.3,NA,education,NA
+北京大学人民医院 生殖中心,男科进修,中国，北京,2017,2017,进修人类辅助生殖技术,2017.12,NA,education,
 CET-4,全国大学英语四级考试,教育部高等教育司,2007,2007,合格,439,NA,certificate,
 CET-6,全国大学英语六级考试,教育部高等教育司,2010,2010,合格,436,NA,certificate,
-计算机二级VF,全国大学英语四、六级考试,教育部考试中心,2006,2006,合格,NA,NA,certificate,
-BFT,全国计算机等级考试二级合格,国家外国专家局,2015,2015,中国国际化人才外语考试,NA,NA,certificate,
-HYMC结业证书,IVF and Urology,以色列，哈代拉,2015,2016,IVF进修证书,NA,NA,certificate,
-郑大一附院IVF培训证书,IVF-ICSI进修,中国，郑州,2016,2017,体外受精-胚胎移植及衍生技术（男科）,,,certificate,
+计算机二级VF,全国大学计算机等级考试,教育部考试中心,2006,2006,合格,NA,NA,certificate,
+BFT,中国国际化人才外语考试,国家外国专家局,2015,2015,中国国际化人才外语考试,NA,NA,certificate,
+以色列西勒雅法医学中心 Urology& IVF,HYMC结业证书,以色列，哈代拉,2015,2016,IVF,NA,NA,certificate,
+郑州大学第一附属医院 生殖中心,IVF-ICSI准入证书,中国，郑州,2016,2017,体外受精-胚胎移植及衍生技术（男科）,NA,NA,certificate,
 医师资格证书,中华人民共和国医师资格证书,卫生部,2012,2012,新疆维吾尔自治区卫生厅,NA,NA,certificate,
-主治医师,全国卫生专业资格技术考试,,2016,2016,新疆生产建设兵团,2013年获兵团主治医师资格,2015年聘为主治医师,certificate,
+主治医师,全国卫生专业资格技术考试,卫计委,2016,2016,新疆生产建设兵团,2013年获兵团主治医师资格,2015年聘为主治医师,certificate,
 讲师,外科学讲师,石河子大学,2019,2019,石河子大学医学院,NA,NA,certificate,
-助教,高等学习教师资格,石河子大学2013,2013,2019,石河子大学,NA,NA,certificate,NA
+助教,高等学习教师资格,石河子大学,2013,2019,石河子大学,NA,NA,certificate,NA
 Department of Urology,MS,石河子大学,2010,9999,"2015-present, Attending doctor, Department of Urology",NA,NA,research_positions,NA
 Department of Urology,PhD,华中科技大学,2018,9999,NA,NA,NA,research_positions,NA
 外科学（泌尿外科）,本科临床教学,石河子大学,2014,9999,NA,NA,Undergraduate level class,teaching_positions,NA
 Surger（Urology）,留学生临床教学,石河子大学医学院留学生办,2016,9999,NA,NA,Overseas Undergraduate level class,teaching_positions,NA
-"_**Acta Medica Mediterranea**_. 2018, 34:1815-1820.","[Expressions and clinical significance of psa, alp and associated indicators in serum of prostate cancer patients with osseous metastasis](https://doi.org/10.19193/0393-6384_2018_6_279)",N/A,2018,2018,"Zhao Ni, Hui Zhuo, Qing Yang, _Song Ouyang_, Wei Lin",NA,NA,academic_articles,NA
-_**农垦医学**_ 2017 卷 39 期 04,[The Application of Transurethral Seminal Vesiculoscopy in Urology and Andrology](https://doi.org/10.3969/j.issn.1008-1127.2017.04.009),,2017,2017,欧阳松 李应龙 倪钊 王勤章,NA,NA,academic_articles,NA
+"_**Acta Medica Mediterranea**_. 2018, 34:1815-1820.","[Expressions and clinical significance of psa, alp and associated indicators in serum of prostate cancer patients with osseous metastasis](https://doi.org/10.19193/0393-6384_2018_6_279)",N/A,2018,2018,"Zhao Ni, Hui Zhuo, Qing Yang, _Song Ouyang_, Wei Lin",NA,Impact Factor = 0.835,academic_articles,NA
+_**农垦医学**_ 2017 卷 39 期 04,[经尿道精囊镜技术在泌尿男科的应用](https://doi.org/10.3969/j.issn.1008-1127.2017.04.009),,2017,2017,欧阳松 李应龙 倪钊 王勤章,NA,<font color="#cc5500"><i class="fa fa-trophy"></i></font>  CNKI Highly downloaded Paper,academic_articles,NA
 _**农垦医学**_ 2017 卷 39 期 01,[互联网时代留学生临床教学模式探讨](https://doi.org/10.3969/j.issn.1008-1127.2017.01.025),N/A,2017,2017,"欧阳松,马路平,钱彪",NA,NA,academic_articles,NA
-"_**现代泌尿外科杂志**_ 2017,22(3):192-195.",[显微镜腹股沟下精索静脉结扎术疗效分析](https://doi.org/10.3969/j.issn.1009-8291.2017.03.010),N/A,2017,2017,欧阳松 倪钊 钱彪 王勤章 丁国富 赵永平,NA,NA,academic_articles,NA
-"_**现代泌尿生殖肿瘤杂志**_ ,2016,8(6):358-359",[解剖性腹腔镜下根治性全膀胱切除术的应用](https://doi.org/10.3870/j.issn.1674-4624.2016.06.010),N/A,2015,2017,"欧阳松,李强,倪钊, 等",NA,NA,academic_articles,NA
-"_**现代泌尿生殖肿瘤杂志**_,2015,(2):68-71","[欧阳松,倪钊,王新敏, 等.改良 R.E.N.A.L.评分在后腹腔镜肾部分切除术中的应用](https://doi.org/10.3870/j.jssn.1674-4624.2015.02.002)",N/A,2015,2013,"欧阳松,倪钊,王新敏, 等.",NA,NA,academic_articles,NA
-"_**中华腔镜泌尿外科杂志（电子版）**_ ,2013,7(5):24-27",[单孔后腹腔镜与标准后腹腔镜输尿管切开取石术的对比研究](https://doi.org/10.3969/cma.j.issn.1674-3253.2013.05.007),N/A,2013,2013,"欧阳松,王勤章,丁国富, 等.",NA,NA,academic_articles,NA
-"_**现代泌尿外科杂志**_ ,2013,18(4):409-410.",[单孔后腹腔镜输尿管切开取石术12例报告](https://doi.org/10.3969/j.issn.1009-8291.2013.04.039),N/A,2015,2015,"欧阳松,王勤章,丁国富, 等",NA,NA,academic_articles,NA
-NA,NA,NA,2020,2020,__G Yu__,NA,NA,book_chapters,NA
-NA,NA,NA,2012,2012,__余光创__,NA,NA,book_chapters,NA
-**南疆地区盆底功能障碍性疾病诊疗新技术的集成推广与相关临床应用研究,新疆生产建设兵团项目 (2018AB023),石河子大学,2019,2020,NA,NA,NA,grant,NA
-**T1b期肾癌实施腹腔镜下肾部分切除术的临床应用研究,兵团杰出青年创新资金专项,石河子大学,2013,2013,**获兵团科技进步二等奖第三名,,NA,grant,NA
-**单孔腹腔镜在泌尿外科中的应用,2011兵团科技计划项目,石河子大学,2011,2013,发表论文三篇,NA,NA,grant,NA
+"_**现代泌尿外科杂志**_ 2017,22(3):192-195.",[显微镜腹股沟下精索静脉结扎术疗效分析](https://doi.org/10.3969/j.issn.1009-8291.2017.03.010),N/A,2017,2017,欧阳松 倪钊 钱彪 王勤章 丁国富 赵永平,NA,<font color="#cc5500"><i class="fa fa-trophy"></i></font>  CNKI Highly downloaded Paper,academic_articles,NA
+"_**现代泌尿生殖肿瘤杂志**_ ,2016,8(6):358-359",[解剖性腹腔镜下根治性全膀胱切除术的应用](https://doi.org/10.3870/j.issn.1674-4624.2016.06.010),N/A,2015,2017,"欧阳松,李强,倪钊,李应龙,王新敏,钱彪,王勤章,丁国富",NA,NA,academic_articles,NA
+"_**现代泌尿生殖肿瘤杂志**_,2015,(2):68-71",[改良 R.E.N.A.L.评分在后腹腔镜肾部分切除术中的应用](https://doi.org/10.3870/j.jssn.1674-4624.2015.02.002),N/A,2015,2013,欧阳松;倪钊;王新敏;钱彪;王文晓;王江平;王勤章;丁国富,NA,<font color="#cc5500"><i class="fa fa-trophy"></i></font>  CNKI Highly downloaded Paper,academic_articles,NA
+"_**中国临床药理学杂志**_,2015,(16):1635-1637",[淋巴管新生与肾透明细胞癌预后的相关性分析](http://kns.cnki.net/kcms/detail/detail.aspx?FileName=GLYZ201516025&DbName=CJFQ2015),,2015,2015,"李强,欧阳松,钱彪,丁国富,倪钊,王勤章",NA,<font color="#cc5500"><i class="fa fa-trophy"></i></font>  CNKI Highly downloaded Paper,,
+"_**中华腔镜泌尿外科杂志（电子版）**_ ,2013,7(5):24-27",[单孔后腹腔镜与标准后腹腔镜输尿管切开取石术的对比研究](https://doi.org/10.3969/cma.j.issn.1674-3253.2013.05.007),N/A,2013,2013,"欧阳松,王勤章,丁国富,李强,倪钊,李应龙,王新敏,王文晓",NA,<font color="#cc5500"><i class="fa fa-trophy"></i></font>  CNKI Highly downloaded Paper,academic_articles,NA
+"_**现代泌尿外科杂志**_ ,2013,18(4):409-410.",[单孔后腹腔镜输尿管切开取石术12例报告](https://doi.org/10.3969/j.issn.1009-8291.2013.04.039),N/A,2015,2015,"欧阳松,王勤章,丁国富,李强,倪钊,李应龙,王新敏,王文晓",NA,NA,academic_articles,NA
+NA,NA,NA,2020,2020,__xx__,NA,NA,book_chapters,NA
+NA,NA,NA,2012,2012,__xx__,NA,NA,book_chapters,NA
+**南疆地区盆底功能障碍性疾病诊疗新技术的集成推广与相关临床应用研究,新疆生产建设兵团项目 (2018AB023)96万,石河子大学,2019,2020,NA,NA,NA,grant,NA
+**T1b期肾癌实施腹腔镜下肾部分切除术的临床应用研究,兵团杰出青年创新资金专项（2011CD002）10万,石河子大学,2013,2013,**获兵团科技进步二等奖第三名,发表论文一篇,NA,grant,NA
+**SCL慢病毒转染重塑膀胱ICC治疗DCP的实验研究**,国家自然科学基金（81360120）48万,石河子大学,2014,2017,地区科学基金项目,NA,NA,grant,NA
+**前列腺ICC介导交感神经信号调控平滑肌张力的作用及机制**,国家自然科学基金（81560129）37万,石河子大学,2016,2019,地区科学基金项目,NA,NA,grant,NA
+**单孔腹腔镜在泌尿外科中的应用,兵团科技计划项目（2011BA036）10万,石河子大学,2011,2013,发表论文三篇,NA,NA,grant,NA
 NA,NA,NA,NA,NA,NA,NA,NA,presentation,NA

@@ -171,7 +171,7 @@ Aside
 ================================================================================
 
 
-![logo](psb.jpg){width=100%}
+![logo](psb.png){width=100%}
 
 ```{r}
 # When in export mode the little dots are unaligned, so fix that. 
@@ -180,68 +180,74 @@ if(PDF_EXPORT){
 }
 ```
 
-联系方式 {#contact}
+联系方式/CONTACT {#contact}
 --------------------------------------------------------------------------------
 
 
 - <i class="fa fa-envelope"></i> swcyo@126.com
-- <i class="fa fa-weibo"></i> swcyo
-- <i class="fa fa-github"></i> github.com/swcyo
-- <i class="fa fa-link"></i> swcyo.github.io
-- <i class="fa fa-edit"></i> swcyo.haodf.com
+- <i class="fa fa-envelope"></i> swcyo@hust.edu.cn
+- <i class="fa fa-weibo"></i> [swcyo](http://weibo.com/swcyo)
+- <i class="fa fa-github"></i> [github.com/swcyo](http://github.com/swcyo)
+- <i class="fa fa-link"></i> [swcyo.github.io](http://swcyo.github.io)
+- <i class="fa fa-edit"></i> [swcyo.haodf.com](http://swcyo.haodf.com)
 - <i class="fa fa-qq"></i> 297481169
 - <i class="fa fa-weixin"></i> swcyoyond
 - <i class="fa fa-phone"></i> (+86) 18799743299
+- <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7962-2811" href="https://orcid.org/0000-0001-7962-2811" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7962-2811</a></div>
 
 
-
-个人职称 {#skills}
+Personal Title {#skills}
 --------------------------------------------------------------------------------
 
-教学职称
+教学职称(Education Title)
 
  - 讲师(2019-)
  - 助教 (2013)
 
-学历学位
+学历学位(Academic Degree)
 
  - 在读博士(2018-)
  - 硕士学位(2013)
  - 学士学位(2010)
 
-临床职称
+临床职称(Clinical title)
 
  - 主治医师(2015-)
  - 住院医师(2013-2015)
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
-
-
-Last updated on `r Sys.Date()`.
 
 
 
 Main
 ================================================================================
 
-欧阳松 {#title}
+欧阳松(Song Ou-Yang) {#title}
 --------------------------------------------------------------------------------
 
 
 ```{r, results='asis'}
-intro_text <- glue("[石河子大学医学院第一附属医院](http://www.sdyfy.com.cn/)泌尿外科主治医师,[石河子大学](http://www.shzu.edu.cn/)讲师")
+intro_text <- glue("Department of Urology & Reproductive Medicine, [First Affiliated Hospital, School of Medicine, Shihezi University](http://www.sdyfy.com.cn/)")
 
 cat(sanitize_links(intro_text))
 ```
 
-我的ORCID ID[https://orcid.org/0000-0001-7962-2811](https://orcid.org/0000-0001-7962-2811)
+```{r, results='asis'}
+intro_text <- glue("[石河子大学医学院第一附属医院](http://www.sdyfy.com.cn/)泌尿外科 & 生殖医学科")
 
-石河子大学医学院第一附属医院泌尿外科及生殖医学科主治医师，讲师，硕士研究生，华中科技大学同济医学院在读博士，擅长泌尿男性生殖系统常见疾病的诊疗，对男性生殖医学疾病具有较深研究，擅长各种男科手术及输尿管镜诊疗技术，熟练显微镜下精索静脉低位结扎术等显微技术。相继赴以色列西勒雅法医学中心及郑州大学第一附属医院主修男性辅助生殖及泌尿外科微创技术，获结业证书。在国内外泌尿专业权威杂志上发表论文10余篇，多次参加国内及疆内专业学术讲座。
+cat(sanitize_links(intro_text))
+```
+    
+    Senior Urologist, Lecturer, MS's Degree
+    PhD. Candidate at Tongji Hospital, Tongji Medical College, HUST
+    Specialized in common diseases of Urogenital system
+    Specializd in all kinds of Urogenital and Endoscopic surgery
+       
+    主治医师，讲师，研究生学历
+    华中科技大学同济医学院附属同济医院在读博士
+    擅长泌尿及男性生殖系统常见疾病的诊疗，对男性生殖医学疾病具有较深研究
+    熟悉各种泌尿男科手术及腔镜微创诊疗技术
 
-
-
-教育经历 {data-icon=graduation-cap data-concise=true}
+教育经历(educational background) {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ```{r, results='asis', echo = FALSE}
@@ -249,7 +255,7 @@ print_section(position_data, 'education')
 ```
 
 
-相关证书 {data-icon=book}
+相关证书(certification) {data-icon=book}
 --------------------------------------------------------------------------------
 
 ```{r, results='asis', echo = FALSE}
@@ -257,7 +263,7 @@ print_section(position_data, 'certificate')
 ```
 
 
-教学经历{data-icon=chalkboard-teacher}
+教学经历(teaching position){data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 
@@ -267,7 +273,7 @@ print_section(position_data, 'teaching_positions')
 
 
 
-科研项目  {data-icon=chart-line}
+科研项目(grant)  {data-icon=chart-line}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -275,7 +281,7 @@ print_section(position_data, 'grant')
 ```
 
 
-学术文章 {data-icon=book}
+学术文章(academic articles) {data-icon=book}
 --------------------------------------------------------------------------------
 
 
